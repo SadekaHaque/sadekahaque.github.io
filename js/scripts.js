@@ -26,7 +26,7 @@ window.onload = function() {
     'I\'m Sadeka Haque',
     'I\'m a Polyglot Computer Scientist,<br> passionate about technology and futurism\n',
     'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:sadekahaque4@gmail.com">sadekahaque4@gmail.com</a>',
-    '<a target="_blank" href="https://twitter.com/sadekahaque">twitter.com/sadekahaque</a><br><a target="_blank" href="www.linkedin.com/in/sadekahaque">www.linkedin.com/in/sadekahaque</a><br><a target="_blank" href="https://github.com/sadekahaque">github.com/sadekahaque</a>',
+    '<a target="_blank" href="https://twitter.com/sadekahaque">twitter.com/sadekahaque</a><br><a target="_blank" href="www.linkedin.com/in/sadekahaque">linkedin.com/in/sadekahaque</a><br><a target="_blank" href="https://github.com/sadekahaque">github.com/sadekahaque</a>',
     getCurrentTime(),
     '👀 SH.'
   ]
